@@ -56,4 +56,4 @@ To use this project:
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 ## License
-This project is licensed under the GNU License. See the LICENSE file for details.
+This project is licensed under the GLP-3.0 License. See the LICENSE file for details.

@@ -40,10 +40,20 @@ Prediction: Making predictions on test data and custom images.
 Results
 The model achieves high accuracy on the validation set and performs well on unseen data. Example results and visualizations of predictions are included in the notebook.
 
-Usage
+## Usage
 To use this project:
 
-Clone the repository:
+1) Clone the repository:
 
-    git clone https://github.com/yourusername/dog-breed-classification.git
-    cd dog-breed-classification
+        git clone https://github.com/Daniel15568/Dog-Breeds-Classification-with-CNN.git
+
+2) Install the required packages:
+
+        pip install -r requirements.txt
+
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
+
+## License
+This project is licensed under the GNU License. See the LICENSE file for details.

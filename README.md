@@ -8,8 +8,8 @@ The dataset consists of over 10,000 images of dogs labeled with their respective
 ## Model
 The model uses transfer learning, starting with a pre-trained MobileNetV2 model from TensorFlow Hub. The steps include:
 
-Data Preprocessing: Loading images, resizing them, and creating batches.
-Model Building: Adding a custom classification layer on top of MobileNetV2.
-Training: Compiling and fitting the model on the training data.
-Evaluation: Evaluating the model on validation data.
-Prediction: Making predictions on test data and custom images.
+1) Data Preprocessing: Loading images, resizing them, and creating batches.
+2) Model Building: Adding a custom classification layer on top of MobileNetV2.
+3) Training: Compiling and fitting the model on the training data.
+4) Evaluation: Evaluating the model on validation data.
+5) Prediction: Making predictions on test data and custom images.

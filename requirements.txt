@@ -1,0 +1,1 @@
+pip install pandas numpy tensorflow tensorflow_hub

@@ -52,8 +52,5 @@ To use this project:
         pip install -r requirements.txt
 
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
 ## License
 This project is licensed under the GLP-3.0 License. See the LICENSE file for details.
